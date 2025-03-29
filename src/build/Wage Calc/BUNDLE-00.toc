@@ -1,3 +1,0 @@
-([('Wage Calc',
-   '/Users/rory/Github/wage-level-calc/src/dist/Wage Calc',
-   'EXECUTABLE')],)
