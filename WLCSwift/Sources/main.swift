@@ -5,6 +5,8 @@ struct WageLevelCalcApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowResizability(.contentSize)
+        .defaultSize(width: 500, height: 500)
     }
 }
 
